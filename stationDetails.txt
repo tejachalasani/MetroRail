@@ -1,0 +1,1 @@
+{"Code":"A03","Name":"Dupont Circle","StationTogether1":"","StationTogether2":"","LineCode1":"RD","LineCode2":null,"LineCode3":null,"LineCode4":null,"Lat":38.909499,"Lon":-77.04362,"Address":{"Street":"1525 20th St. NW","City":"Washington","State":"DC","Zip":"20036"}}

@@ -1,0 +1,1 @@
+{"StationToStationInfos":[{"SourceStation":"A03","DestinationStation":"A15","CompositeMiles":16.26,"RailTime":32,"RailFare":{"PeakTime":5.90,"OffPeakTime":3.60,"SeniorDisabled":2.95}}]}
